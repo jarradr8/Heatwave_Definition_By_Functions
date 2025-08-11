@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # HEATWAVE FUNCTION SKELETON
+# # HEATWAVE FUNCTION SKELETON.
 
 # In[ ]:
 
